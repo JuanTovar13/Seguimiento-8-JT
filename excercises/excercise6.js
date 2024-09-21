@@ -8,15 +8,10 @@ function sumarHastaNumero(num) {
         i++;
           
     }
-
     return suma;
-    
 }
 let num = 100
 let resultado = sumarHastaNumero(num)
-
-
-
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 6")
