@@ -5,8 +5,9 @@ function contarMultiplosDe3() {
         if (i % 3 === 0){
             multide3 ++;
         }
-        console.log(multide3)
+        
     }
+    console.log(multide3)
 
 }
 console.log("-----------------------------------")
